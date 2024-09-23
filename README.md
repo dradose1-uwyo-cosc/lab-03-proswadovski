@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Peyton Roswadovski]
+## [Assignment #3]
+## [Submission date: 09/29/2024]
 ## Worked with/sources 
-* example
+* Lecture Slides
 * example
 * example
 * example
